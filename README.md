@@ -14,5 +14,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasansuzen01&show_icons=true&locale=en" alt="hasansuzen01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasansuzen01&" alt="hasansuzen01" /></p>
-
-![snake gif](https://github.com/hasansuzen01/hasansuzen01/blob/output/github-contribution-grid-snake.gif)
