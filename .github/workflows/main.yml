@@ -15,19 +15,11 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: Platane/snk@v3
-        id: snake-gif
         with:
-          github_user_name: hasansuzen01  # kendi username'in
+          github_user_name: hasansuzen01
           outputs: |
             dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake.svg
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
+            dist/github-contribution-grid-snake.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
