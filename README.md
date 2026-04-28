@@ -14,4 +14,4 @@
   <img src="https://skillicons.dev/icons?i=azure,bootstrap,chartjs,cs,css,docker,electron,express,figma,firebase,git,html,js,linux,mongodb,mysql,nestjs,nextjs,nginx,nodejs,postgres,postman,react,redis,redux,tailwind,ts&perline=14" />
 </p>
 
-![snake gif](https://github.com/hasansuzen01/hasansuzen01/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/hasansuzen01/hasansuzen01/output/github-contribution-grid-snake.svg" alt="snake" />
