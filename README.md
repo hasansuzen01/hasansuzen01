@@ -27,24 +27,25 @@ I'm a Full Stack Developer with 2 years of professional experience building scal
 ---
 
 ### 📦 Projects
-
-#### [Desterren Taxi](#)
-A real-time dispatch and fleet management dashboard.
-*   Built with **Next.js** and **NestJS**.
-*   Features a custom **Telegram Bot integration** for automated job assignments to drivers.
-*   Optimized with **Redis** for fast read operations and fully containerized using **Docker** and **Nginx**.
-
-#### [Taxiport](#)
+#### [Taxiport](https://taxiport.nl)
 A full-stack booking platform targeting the international transport market.
 *   Focused on secure transaction processing and high availability.
 *   Implemented stateless JWT authentication (HttpOnly cookies), rate-limiting, and payload validation for API security.
 *   Deployed on a Linux environment with automated workflows.
 
-#### [Qritra](#)
+
+#### [Qritra](https://qritra.com)
 An architecture-focused full-stack application (Currently in development).
 *   Demonstrates clean code principles and decoupled architecture.
 *   Built with a strong emphasis on strict input validation and optimized database queries to prevent injection attacks.
 *   Dockerized for easy local setup and testing.
+
+  #### [Desterren Taxi](https://desterrentaxi.com)
+A real-time dispatch and fleet management dashboard.
+*   Built with **Next.js** and **NestJS**.
+*   Features a custom **Telegram Bot integration** for automated job assignments to drivers.
+*   Optimized with **Redis** for fast read operations and fully containerized using **Docker** and **Nginx**.
+
 
 ---
 
