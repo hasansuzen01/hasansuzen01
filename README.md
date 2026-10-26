@@ -1,35 +1,23 @@
----
-name: Hasan Süzen
-role: Senior Full Stack Developer
-location: Bursa, TR
-skills: [Node.js, NestJS, Next.js, Prisma, PostgreSQL, Docker, Redis]
-domain: Backend Architecture & High-Performance Web
----
+### Hi, I'm Hasan 👋
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/danielcranney/main/c-header.gif" alt="Space/Tech Banner" width="100%" />
-</div>
+Full Stack Developer from Bursa, Türkiye. I build and ship production web apps with **Next.js, React, TypeScript, Node.js and NestJS**, backed by **PostgreSQL, Prisma and Redis**.
 
-<div align="center">
-  <a href="https://github.com/hasansuzen">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&background=0D1117&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;Architecting+Scalable+Systems;Zero-Latency+Caching+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
+- 🔭 Full Stack Developer at **Vefactor Software**: primary developer of [michilink.com](https://michilink.com), an influencer and brand marketplace
+- 🚕 Remote contracts for two Netherlands-based taxi companies (Taxiport, Desterren Taxi): NestJS backend, real-time vehicle tracking with Socket.io and Redis, a Next.js dispatch system with a Telegram bot
+- 🎓 BSc in Management Information Systems (2026)
+- 🌍 Open to remote, hybrid or relocation
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Bursa,%20TR-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00FF99&labelColor=161B22&color=0D1117" alt="Location" />
-  <img src="https://img.shields.io/badge/Main_Focus-Backend_Architecture-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF99&labelColor=161B22&color=0D1117" alt="Focus" />
-</p>
+#### Projects
 
----
+| Project | What it is | Stack |
+|---|---|---|
+| [**AcademyGeo**](https://github.com/hasansuzen01/AcademyGeo) · [academygeo.com](https://academygeo.com) | Bilingual game that teaches GeoGuessr-style visual clues: spaced repetition, 7 game modes, server-side scoring | Next.js, NestJS, PostgreSQL, Prisma, Redis |
+| [**TheoryChess**](https://theorychess.com) | Chess opening trainer: lines played against Stockfish running in the browser (WebAssembly), spaced repetition, Lichess/Chess.com game reports via BullMQ | Next.js, React, NestJS, PostgreSQL, Redis, BullMQ |
 
-### 🧠 Terminal Overview
+#### Tools I use
 
-```bash
-$ whoami
-> Hasan Süzen - Senior Full Stack Developer
+TypeScript · React · Next.js · Node.js · NestJS · PostgreSQL · Prisma · Redis · BullMQ · Socket.io · Jest · Vitest · Playwright · Docker · GitHub Actions · Linux
 
-$ cat core_competencies.txt
-> Building high-performance, scalable, and secure web applications.
-> Focused on backend architecture efficiency, O(1) complexity operations, 
-> zero-latency caching strategies, and robust PostgreSQL/Redis optimization.
+#### Contact
+
+[LinkedIn](https://www.linkedin.com/in/hasansuzen) · hasansuzen@outlook.com.tr
